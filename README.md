@@ -1,1 +1,1 @@
-# ghcr.io
+# ghc.io
